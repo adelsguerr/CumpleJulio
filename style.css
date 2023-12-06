@@ -196,6 +196,7 @@ body {
     margin-bottom: -50px;
 }
 
-.outside audio {
-    margin-top: 420px;
+.card audio {
+    margin-top: 410px;
+    margin-left: 330px;
 }
